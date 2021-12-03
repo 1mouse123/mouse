@@ -2,6 +2,6 @@
 
 main() {
 
-    printf("葉祐誠/n ");
+    printf("葉祐誠\n ");
 }
 
